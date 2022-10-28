@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contenedorFooter,
+.contenedor{
+    width: 100%;
+    background-color: rgb(220, 233, 145);
+    display: flex; 
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+
+}
+.elm-logo img,
+.img-footer img{
+    width: 200px;
+}
+.p-1{
+    color: rgb(165, 42, 42);
+    font-size: 20px;
+}
+.p-2{
+    background-color: rgb(129, 45, 224);
+    font-size: 30px;
+}
+.imagenes{
+gap: 30px;
+}
